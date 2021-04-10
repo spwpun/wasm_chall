@@ -1,0 +1,2 @@
+一个wasm的简单异或逆向，通过提取wasm中的数据解码得到flag。
+flag: flag{NeSE_yyds}
